@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmet\\source\\repos\\GenericRepository\\GenericRepository.Domain\\GenericRepository.Domain.csproj": {}
+    "C:\\Users\\ahmet\\Desktop\\4.Sınıf Bahar Dönemi\\GitHub\\GenericRepository\\GenericRepository\\GenericRepository.Domain\\GenericRepository.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmet\\source\\repos\\GenericRepository\\GenericRepository.Domain\\GenericRepository.Domain.csproj": {
+    "C:\\Users\\ahmet\\Desktop\\4.Sınıf Bahar Dönemi\\GitHub\\GenericRepository\\GenericRepository\\GenericRepository.Domain\\GenericRepository.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmet\\source\\repos\\GenericRepository\\GenericRepository.Domain\\GenericRepository.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ahmet\\Desktop\\4.Sınıf Bahar Dönemi\\GitHub\\GenericRepository\\GenericRepository\\GenericRepository.Domain\\GenericRepository.Domain.csproj",
         "projectName": "GenericRepository.Domain",
-        "projectPath": "C:\\Users\\ahmet\\source\\repos\\GenericRepository\\GenericRepository.Domain\\GenericRepository.Domain.csproj",
+        "projectPath": "C:\\Users\\ahmet\\Desktop\\4.Sınıf Bahar Dönemi\\GitHub\\GenericRepository\\GenericRepository\\GenericRepository.Domain\\GenericRepository.Domain.csproj",
         "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmet\\source\\repos\\GenericRepository\\GenericRepository.Domain\\obj\\",
+        "outputPath": "C:\\Users\\ahmet\\Desktop\\4.Sınıf Bahar Dönemi\\GitHub\\GenericRepository\\GenericRepository\\GenericRepository.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

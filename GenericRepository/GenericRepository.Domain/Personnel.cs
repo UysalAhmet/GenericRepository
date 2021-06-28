@@ -12,6 +12,6 @@ namespace GenericRepository.Domain
         public string Name { get; set; }
         public string LastName { get; set; }
         public int DepartmentId { get; set; }
-        public Department Department { get; set; }
+        public virtual Department Department { get; set; }
     }
 }

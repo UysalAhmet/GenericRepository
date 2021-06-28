@@ -39,3 +39,44 @@ C:\Users\ahmet\source\repos\GenericRepository\GenericRepository.ConsoleUI\obj\De
 C:\Users\ahmet\source\repos\GenericRepository\GenericRepository.ConsoleUI\obj\Debug\net5.0\ref\GenericRepository.ConsoleUI.dll
 C:\Users\ahmet\source\repos\GenericRepository\GenericRepository.ConsoleUI\obj\Debug\net5.0\GenericRepository.ConsoleUI.pdb
 C:\Users\ahmet\source\repos\GenericRepository\GenericRepository.ConsoleUI\obj\Debug\net5.0\GenericRepository.ConsoleUI.genruntimeconfig.cache
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\GenericRepository.ConsoleUI.exe
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\GenericRepository.ConsoleUI.deps.json
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\GenericRepository.ConsoleUI.runtimeconfig.json
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\GenericRepository.ConsoleUI.runtimeconfig.dev.json
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\GenericRepository.ConsoleUI.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\ref\GenericRepository.ConsoleUI.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\GenericRepository.ConsoleUI.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\GenericRepository.DAL.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\GenericRepository.Domain.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\GenericRepository.DAL.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\bin\Debug\net5.0\GenericRepository.Domain.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\obj\Debug\net5.0\GenericRepository.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\obj\Debug\net5.0\GenericRepository.ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\obj\Debug\net5.0\GenericRepository.ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\obj\Debug\net5.0\GenericRepository.ConsoleUI.AssemblyInfo.cs
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\obj\Debug\net5.0\GenericRepository.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\obj\Debug\net5.0\GenericRepository.ConsoleUI.csproj.CopyComplete
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\obj\Debug\net5.0\GenericRepository.ConsoleUI.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\obj\Debug\net5.0\ref\GenericRepository.ConsoleUI.dll
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\obj\Debug\net5.0\GenericRepository.ConsoleUI.pdb
+C:\Users\ahmet\Desktop\4.Sınıf Bahar Dönemi\GitHub\GenericRepository\GenericRepository\GenericRepository.ConsoleUI\obj\Debug\net5.0\GenericRepository.ConsoleUI.genruntimeconfig.cache

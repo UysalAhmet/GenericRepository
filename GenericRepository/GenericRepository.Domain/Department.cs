@@ -11,6 +11,6 @@ namespace GenericRepository.Domain
         }
         public int Id { get; set; }
         public string Name { get; set; }
-        public ICollection<Personnel> Personennels { get; set; }
+        public virtual ICollection<Personnel> Personennels { get; set; }
     }
 }

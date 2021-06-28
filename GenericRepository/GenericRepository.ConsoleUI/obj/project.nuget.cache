@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AzMcDWjE0fgEMmmFiU+AZW+9Hy0sNgWzNTOpjmP56befRF210h8Cssgn44SULOcZh2V2pn9HRmMxlXuQU0RH2Q==",
+  "dgSpecHash": "p7RFMbiSTcQk5IRnEqhjok7VziTKSSQkmLwXZk4//3XVRRmUz3E4b2TNlFXOWL+qNcSrOzCPgY/B1bFQKf/yZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmet\\source\\repos\\GenericRepository\\GenericRepository.ConsoleUI\\GenericRepository.ConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\ahmet\\Desktop\\4.Sınıf Bahar Dönemi\\GitHub\\GenericRepository\\GenericRepository\\GenericRepository.ConsoleUI\\GenericRepository.ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmet\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
